@@ -7,10 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Name: Santhosh NC <br/>
-          Department: CSE <br/>
-          Register Number: 1214114/1214192 <br/>
-          email: ncsanthosh7@gmail.com <br/>
+          Name: Kaushal Kumar <br/>
+          Department: IT <br/>
+          Register Number: 730921205034 <br/>
+          email: kaushalraj11a@gmail.com <br/>
         </p>
         <a
           className="App-link"
